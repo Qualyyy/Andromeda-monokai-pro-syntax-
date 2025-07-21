@@ -34,6 +34,11 @@
                 "path": "./themes/Andromeda-color-theme.json"
             },
             {
+                "label": "Andromeda (Monokai Pro syntax)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Andromeda-monokai-color-theme.json"
+            },
+            {
                 "label": "Andromeda Bordered",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Andromeda-color-theme-bordered.json"
